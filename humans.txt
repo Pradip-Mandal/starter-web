@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+  Pradip Mandal  Learning new things  @instadip653
 
 # THANKS
 
